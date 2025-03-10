@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "a7f77966edd54bc8",
+    "type": "split",
+    "children": [
+      {
+        "id": "f91f2c8f975d29b1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8235115f522523d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6c2852051952254c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a8bd9342c9b1747",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed199a5b17b4bf33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e4cba17690a45a9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b114bbb3a0d5cbc2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c0ad759942c13361",
+    "type": "split",
+    "children": [
+      {
+        "id": "f8346c830b3d03ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8499a6944e27a027",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Introduction.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Introduction"
+            }
+          },
+          {
+            "id": "0069259a9d038572",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Introduction.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Introduction"
+            }
+          },
+          {
+            "id": "a4c2cbc7befff632",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "8df015e75cf74d2d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Introduction.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Introduction"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "8235115f522523d1",
+  "lastOpenFiles": [
+    "Introduction.md",
+    "README.md",
+    "import from goog/import.md",
+    "TTRPG.md",
+    "Player Side Creation/Player Characters.md",
+    "suplimentary docs/Alternate Rules.md",
+    "suplimentary docs/Additional Documents.md",
+    "suplimentary docs/Appendix.md",
+    "Game Mechanics",
+    "Player Side Creation",
+    "Setting and Location/Setting and Location.md",
+    "Game Mechanics/Dice Mechanics.md",
+    "Setting and Location",
+    "Requirements to Play.md",
+    "Game Mechanics/Combat.md",
+    "Vibes and Designs.md",
+    "suplimentary docs",
+    "import from goog",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}

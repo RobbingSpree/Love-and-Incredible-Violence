@@ -1,0 +1,1 @@
+LaIV is a TTRPG designed to facilitate playing a simplified campaign where magical girls fight against the forces of evil in a world where plot contrivances are an element of the magic.
