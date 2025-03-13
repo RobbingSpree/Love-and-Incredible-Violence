@@ -5,20 +5,13 @@
 Each character will need the following details to be decided during creation, you can read up on these details further in this section:
 
 **Name**
-
 **Age**
-
 **Class**
-
 **Stats**
-
 **Skills**
-
 **Daytime Activities**
-
 **Curiosity**
-
-**Daimsel**
+**Damsel**
 
 ## Name
 
@@ -26,7 +19,7 @@ Both Base Form and the magical form need names
 
 ## Age
 
-Character age fits into broad categories, character age has no mechanical effects and is more for roleplaying purposes and justifying character skills.
+Character age fits into broad categories, character age has no mechanical effects and is more for roleplaying purposes and justifying character skills. As part of session 0 we recommend discussing with the GM how to best tie many of the characters together socially so they have ample opportunities to be gathered in several arrangements, otherwise the start of sessions might end up playing out very similarly from session to session.
 
 _Underage_ (less than 18 or graduating secondary education)
 
@@ -45,13 +38,9 @@ This rulebook does note that character classes are technically not necessary as 
 There are 5 primary stats:
 
 **Physique**
-
 **Adroit**
-
 **Gumption**
-
 **Empathy**
-
 **Attunement**
 
 These 5 form the backbone of each character, each of the first 4 has a mental and physical component, but you can read about that in more detail below:
