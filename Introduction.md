@@ -2,4 +2,4 @@ This is a **[[Appendix#TTRPG|TTRPG]]** system for magical girl settings, the pla
 
 The expected format for a play session revolves around learning of rumors of a scheme the forces of evil are playing on the public or specific people, investigating these rumors and finding the truth on if it’s just a fad craze or a real scheme to drain the populace of energy. Then comes storming the lair, confronting the villain of the week and the denouement. While this may seem simple on it’s face, this book should provide the tools to flesh out this process to a meaningful role playing experience.
 
-Some of the language in this rulebook is flowery and poetic to help set the tone for the intended setting, if something isn’t clear check the appendix for a plain language definition of any bolded term in this **rulebook**.
+Some of the language in this rulebook is flowery and poetic to help set the tone for the intended setting, if something isn’t clear check the appendix for a plain language definition of any bolded term in this **rulebook**.0000000
