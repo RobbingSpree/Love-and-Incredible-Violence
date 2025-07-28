@@ -4,14 +4,14 @@
 
 Each character will need the following details to be decided during creation, you can read up on these details further in this section:
 
-**Name**
-**Age**
-**Class**
-**Stats**
-**Skills**
-**Daytime Activities**
-**Curiosity**
-**Damsel**
+**[[Player Characters#Name|Name]]**
+**[[Player Characters#Age|Age]]**
+**[[Player Characters#Class|Class]]**
+**[[Player Characters#Stats|Stats]]**
+**[[Player Characters#Skills|Skills]]**
+**[[Player Characters#Daytime Activities|Daytime Activities]]**
+**[[Player Characters#Curiosity|Curiosity]]**
+**[[Player Characters#Damsel|Damsel]]**
 
 ## Name
 
